@@ -1,8 +1,4 @@
-# hello-world
-first github repo
-
-
-Hello I am Ronald Looi
+# Hello I am Ronald Looi
 
 Current Position: Full time Student and member of the integration group for Team Omega.
 

@@ -12,4 +12,5 @@ Java, C++, LAMP stack front end dev and Angular
 # Previous working experiences: 
 Math tutor at MAster Maths Glenanda.
 
-Determined, hard working, diligent and eager to learn.  
+
+# Determined Hard Working, Diligent and Eager to Learn.  
